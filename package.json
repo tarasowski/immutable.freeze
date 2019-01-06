@@ -1,0 +1,26 @@
+{
+  "name": "immutable.freeze",
+  "version": "1.0.0",
+  "description": "Deep Freeze Function for Redux Reducers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tarasowski/immutable.freeze.git"
+  },
+  "keywords": [],
+  "author": "Dimitri Tarasowski <dimitri+npm@tarasowski.de>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tarasowski/immutable.freeze/issues"
+  },
+  "homepage": "https://github.com/tarasowski/immutable.freeze#readme",
+  "devDependencies": {
+    "expect": "^23.6.0"
+  },
+  "dependencies": {
+    "compose.helpers": "^1.0.3"
+  }
+}
