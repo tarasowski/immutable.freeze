@@ -1,6 +1,6 @@
 {
   "name": "immutable.freeze",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Deep Freeze Function for Redux Reducers",
   "main": "index.js",
   "scripts": {
